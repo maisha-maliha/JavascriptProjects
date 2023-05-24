@@ -1,0 +1,16 @@
+button{
+    display: block;
+    width: 150px;
+    margin: 10px auto;
+    padding: 8px 12px;
+    background-color: white;
+    justify-content: center;
+}
+.clrname{
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    margin: 30vh auto 0;
+    background-color: rgb(255, 255, 255);
+}
