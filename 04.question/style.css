@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.board{
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 20px;
+    box-shadow: rgba(183, 183, 183, 0.448) -10px 15px;
+}
+.card{
+    margin: 20px;
+    border: solid black 2px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+h2{
+    display: inline;
+}
+span{
+    display: inline-block;
+    border: 2px solid rgb(0, 0, 0);
+    width: 20px;
+    height: 20px;
+}
+.body{
+    display: none;
+    padding: 10px;
+}
