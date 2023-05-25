@@ -1,0 +1,26 @@
+.board{
+    padding: 10px;
+    border: 4px dashed black;
+    width: 300px;
+    margin: 10vh auto;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+}
+.review{
+    min-height: 80px;
+    padding: 10px 0;
+    font-size: 20px;
+}
+button{
+    padding: 5px 10px;
+    margin-right: 5px;
+    background-color: yellow;
+    border: 2px solid black;
+}
